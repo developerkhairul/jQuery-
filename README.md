@@ -1,3 +1,3 @@
 # jQuery-
 
-J query peactice
+https://developerkhairul.github.io/jQuery-/
